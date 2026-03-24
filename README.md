@@ -47,14 +47,12 @@ I have worked on:
 
 ---
 
----
-
 ## 🎯 Looking For
 
-<h3>Software Developer</h3>
-<h3>Full-Stack Developer</h3>
-<h3>Backend developer</h3>
-<h3>Full Stack AI Engineer</h3>
+<h4>Software Developer</h4>
+<h4>Full-Stack Developer</h4>
+<h4>Backend developer</h4>
+<h4>Full Stack AI Engineer</h4>
 
 
 
