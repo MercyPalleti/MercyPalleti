@@ -37,7 +37,7 @@ I have worked on:
 
 ### 🗄️ Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,pinecone" />
 </p>
 
 ### 🧰 Tools & DevOps
@@ -51,6 +51,9 @@ I have worked on:
 
 ## 🎯 Looking For
 
-Backend or Full-Stack Software Engineering roles
+Software Developer
+Full-Stack Developer
+Backend developer
+Full Stack AI Engineer
 
 ---
