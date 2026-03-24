@@ -54,6 +54,11 @@ I have worked on:
 <h4>Backend developer</h4>
 <h4>Full Stack AI Engineer</h4>
 
+----
 
+### Links
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mercy-palleti-b7b5a6261/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white)](https://mercypalleti.github.io/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/mercypalleti09/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mercypalleti@gmail.com)
