@@ -51,9 +51,11 @@ I have worked on:
 
 ## 🎯 Looking For
 
-Software Developer
-Full-Stack Developer
-Backend developer
-Full Stack AI Engineer
+<h3>Software Developer</h3>
+<h3>Full-Stack Developer</h3>
+<h3>Backend developer</h3>
+<h3>Full Stack AI Engineer</h3>
+
+
 
 ---
