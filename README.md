@@ -1,16 +1,56 @@
-## Hi there 👋
+<h1 align="center">Hi, I’m Mercy Palleti 👋</h1>
 
-<!--
-**MercyPalleti/MercyPalleti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Software Developer | Java • Spring Boot • React.js • Node.js • Full-Stack
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 About Me
+
+Software Developer with experience building backend and full-stack applications using Java, Spring Boot, React and Node.
+
+I have worked on:
+- Designing and developing REST APIs  
+- Building backend services for high-volume systems  
+- Working with databases like MySQL and PostgreSQL  
+- Improving API performance and resolving production issues  
+
+---
+
+## 🛠️ Tech Stack
+
+### 🚀 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,python" />
+</p>
+
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
+</p>
+
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,redux" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+</p>
+
+### 🧰 Tools & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,aws,n8n" />
+</p>
+
+---
+
+---
+
+## 🎯 Looking For
+
+Backend or Full-Stack Software Engineering roles
+
+---
