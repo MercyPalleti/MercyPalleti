@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I’m Mercy Palleti 👋</h1>
 
 <p align="center">
-  Software Developer | Java • Spring Boot • React.js • Node.js • Full-Stack
+  Software Developer | Java • Spring Boot • React.js • Node.js •  AWS •  GenAI •
 </p>
 
 ---
