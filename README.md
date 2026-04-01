@@ -26,7 +26,7 @@
 
 Hello! I'm **Mercy Palleti** — a  **Full Stack Developer**, passionate about building scalable, high-performance systems with Java, Spring Boot, React ,Node and AWS.
 
-- 🎓  B.Tech (Computer Science) Graduate
+- 🎓  B.E. Computer Science Graduate
 - 💻 Building production-ready apps using **MERN + Full Stack**  
 - ☁️ Exploring **Cloud, Databases, Caching & Architecture**  
 - 🧠 Enjoy backend engineering, system design, distributed tech  
