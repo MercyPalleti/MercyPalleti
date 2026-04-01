@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.herokuapp.com">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Backend+%2F+Developer;&center=true&width=700&height=45">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Backend+Developer;&center=true&width=700&height=45">
   </a>
 </p>
 
